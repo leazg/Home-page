@@ -99,7 +99,12 @@ hr {
   left: 250px;
   bottom: 300px;
 }
-
+.mountain {
+  position: absolute;
+  bottom: 0;
+  left: auto;
+  right: auto;
+}
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
